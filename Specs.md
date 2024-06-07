@@ -2,7 +2,7 @@
 
 GPU架構： Ampere
 CUDA核心數： 5888
-記憶體容量： 8GB GDDR6
+記憶體容量： 16GB GDDR6
 記憶體介面： 256位
 核心時鐘速度： 1500MHz
 Boost時鐘速度： 1725MHz

@@ -2,7 +2,7 @@
 
 作業系統：
 
-Windows：RTX 3070 完全兼容 Windows 10 和 Windows 11 作業系統。
+Windows：RTX 3070 完全兼容 Windows 11 作業系統。
 Linux：輝達驅動程序也支援 Linux 系統，因此 RTX 3070 在 Linux 系統上也能夠正常運作。
 輝達驅動程序：
 
